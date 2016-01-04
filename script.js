@@ -8,7 +8,7 @@
 					[2, "C and D series", 1969, 1971, "https://en.wikipedia.org/wiki/Porsche_911_(classic)"],
 					[3, "E and F series", 1971, 1973, "https://en.wikipedia.org/wiki/Porsche_911_(classic)"],
 					[4, "Carrera RS", 1973, 1974, "https://en.wikipedia.org/wiki/Porsche_911_(classic)"],
-					[5, "G and H series", 1974, 1975, "https://en.wikipedia.org/wiki/Porsche_911_(classic)"],
+					[5, "G and H series", 1974, 1977, "https://en.wikipedia.org/wiki/Porsche_911_(classic)"],
 					[6, "Carrera 3.0", 1976, 1977, "https://en.wikipedia.org/wiki/Porsche_911_(classic)"],
 					[7, "Turbo Type-930", 1974, 1989, "https://en.wikipedia.org/wiki/Porsche_930"],
 					[8, "911 SC", 1978, 1983, "https://en.wikipedia.org/wiki/Porsche_911_(classic)"],
