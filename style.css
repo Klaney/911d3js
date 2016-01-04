@@ -1,0 +1,9 @@
+h1 {
+	color: red;
+}
+
+body {
+	background-image: url("http://www.6speedonline.com/wp-content/uploads/2013/01/Singer-Porsche-911-NY-2.jpg");
+	/*background-position: fixed;*/
+	background-attachment: fixed;
+}
